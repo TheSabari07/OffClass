@@ -13,12 +13,9 @@ dist-ssr
 *.local
 
 # Environment files
-.env
-.env.local
 .env.*.local
 
 # Editor directories and files
-.vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
@@ -28,3 +25,4 @@ dist-ssr
 *.sln
 *.sw?
 client/test-results/
+config.bat
