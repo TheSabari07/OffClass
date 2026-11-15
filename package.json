@@ -17,6 +17,7 @@
     }
   },
   "dependencies": {
+    "node-fetch": "^3.3.2",
     "puppeteer": "^25.10.0"
   }
 }
